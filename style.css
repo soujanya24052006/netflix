@@ -1,0 +1,62 @@
+ body{
+font-family:Arial;
+background:#f2f2f2;
+padding:30px;
+}
+
+.container{
+width:80%;
+margin:auto;
+background:white;
+padding:20px;
+border:2px solid black;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+margin-top:20px;
+border:2px solid black;
+}
+
+tr{
+border:2px solid black;
+}
+
+th,td{
+border:2px solid black;
+padding:12px;
+text-align:center;
+}
+
+th{
+background:red;
+color:white;
+}
+
+input{
+width:95%;
+padding:8px;
+border:1px solid black;
+}
+
+button{
+padding:10px 20px;
+background:red;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+a{
+text-decoration:none;
+}
+
+.addbtn{
+display:inline-block;
+padding:12px 20px;
+background:red;
+color:white;
+font-weight:bold;
+margin-bottom:20px;
+}
